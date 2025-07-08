@@ -17,6 +17,7 @@ public class MultiTab extends javax.swing.JFrame {
      */
     public MultiTab() {
         initComponents();
+        setTitle("Multi Tab");
     }
 
     /**
