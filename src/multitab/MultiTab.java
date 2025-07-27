@@ -7,7 +7,7 @@ public class MultiTab extends javax.swing.JFrame {
     public MultiTab() {
         initComponents();
         setTitle("Multi Tab");
-    }
+    };
 
     @SuppressWarnings("unchecked")
     private void initComponents() {
