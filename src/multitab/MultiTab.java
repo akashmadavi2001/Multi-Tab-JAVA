@@ -112,7 +112,6 @@ public class MultiTab extends javax.swing.JFrame {
         );
 
         getContentPane().add(jPanel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(603, 6, -1, 418));
-
         jLabel6.setFont(new java.awt.Font("Segoe UI", 1, 36));
         jLabel6.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel6.setText("Home");
@@ -135,7 +134,6 @@ public class MultiTab extends javax.swing.JFrame {
         );
 
         jTabbedPane1.addTab("", jPanel7);
-
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 36)); 
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("About");
@@ -158,7 +156,6 @@ public class MultiTab extends javax.swing.JFrame {
         );
 
         jTabbedPane1.addTab("", jPanel8);
-
         jLabel3.setFont(new java.awt.Font("Segoe UI", 1, 36)); 
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel3.setText("Help");
@@ -181,7 +178,6 @@ public class MultiTab extends javax.swing.JFrame {
         );
 
         jTabbedPane1.addTab("", jPanel9);
-
         jLabel4.setFont(new java.awt.Font("Segoe UI", 1, 36));
         jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel4.setText("Contact");
